@@ -19,23 +19,18 @@
 - C, C++, Java, Python
 
 ## Project
+
 - 20.07.22 ~ 20.10.29 - 한동 고양이 커뮤니티 (한냥만요)
+Android Native로 커뮤니티 게시글 관련 페이지 제작
+
 - 21.01.15 ~ 21.05.10 - C++ Tetris 게임
+C++ Class abstraction + Concole GUI로 테트리스 게임 제작
+
 - 21.04.28 ~ 21.11.22 - 학부 별 Q&A 게시판 (StudyTogethrer)
+Express와 LAMP, Sequelize를 이용한 백앤드 개발, axios를 이용한 크롤링 기능 제작
+
 - 21.11.15 ~ 21.12.18 - 원하는 주제에 관한 시집 감상 공간 (시집문고)
+JavaScript, HTML, CSS를 이용한 프론트앤드 개발
+
 - 21.12.10 ~ 21.12.18 - 학부 별 스터디 모집 게시판 (StudySetter();)
-
-<!--
-**YuSoeun/YuSoeun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+JavaScript, HTML, CSS를 이용한 프론트앤드 개발 및 백과의 연결 담당
