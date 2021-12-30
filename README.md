@@ -4,18 +4,18 @@
 실 서비스를 기획하고 제작하는 것이 즐거운 프로그래머입니다.
 
 ## Stack
-##### 1. Front End
+#### 1. Front End
 - JavaScript, HTML, CSS
 - Java Native, Android-Studio
 - Flutter(기초만)
 
-##### 2. Back End
+#### 2. Back End
 - LAMP (Linux, Apache, MySQL, PHP)
 - Node.js, Express.js
 - axios
 - sequelize
 
-##### 3. Computer Language
+#### 3. Computer Language
 - C, C++, Java, Python
 
 ## Project
