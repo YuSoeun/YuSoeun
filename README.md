@@ -33,4 +33,12 @@ Express와 LAMP, Sequelize를 이용한 백앤드 개발, axios를 이용한 크
 JavaScript, HTML, CSS를 이용한 프론트앤드 개발
 
 - 21.12.10 ~ 21.12.18 - 학부 별 스터디 모집 게시판 (StudySetter();)  
-JavaScript, HTML, CSS를 이용한 프론트앤드 개발 및 백과의 연결 담당
+JavaScript, HTML, CSS를 이용한 프론트앤드 개발 및 Java Spring을 이용한 백과의 연결 담당
+
+## Career
+
+- 2021.12.01 ~ 현재 - 모아카 인턴
+Express, open-graph, selenium을 이용한 크롤링 모듈 서버 제작
+
+- 2022.01.12 ~ 2022.01.14 - 학교 내 데이타구조 캠프 디렉터, 강사
+후배들을 대상으로 C언어와 데이타구조 과목에 관련한 강의 진행
