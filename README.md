@@ -12,7 +12,7 @@
 #### 2. Back End
 - LAMP (Linux, Apache, MySQL, PHP)
 - Node.js, Express.js
-- axios
+- axios, selenium, open-graph-scraper
 - sequelize
 
 #### 3. Computer Language
