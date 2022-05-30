@@ -16,7 +16,7 @@
 - sequelize
 
 #### 3. Computer Language
-- C, C++, Java, Python
+- C++, Java, Python
 
 ## Project
 
