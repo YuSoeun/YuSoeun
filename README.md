@@ -37,7 +37,7 @@ JavaScript, HTML, CSS를 이용한 프론트앤드 개발 및 Java Spring을 이
 
 ## Career
 
-- 2021.12.01 ~ 현재 - 모아카 인턴  
+- 2021.12.01 ~ 2021.2.13 - 모아카 인턴  
 Express와 LAMP, Sequelize를 이용한 크롤링 모듈 서버 제작, open-graph와 selenium으로 크롤러 구현
 
 - 2022.01.12 ~ 2022.01.14 - 학교 내 데이터구조 캠프 디렉터, 강사  
