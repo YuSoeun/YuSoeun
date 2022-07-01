@@ -3,6 +3,7 @@
 ## DoplinBlue 👋
 상업적 가치와 효율을 생각하며 코딩하는 프로그래머입니다!
 
+
 ## Stack
 #### 1. Front End (기초만)
 - JavaScript, HTML, CSS
@@ -17,6 +18,7 @@
 
 #### 3. Computer Language
 - C++, Java, Python
+
 
 ## Project
 
@@ -37,6 +39,7 @@ C++ Class abstraction + Concole GUI로 테트리스 게임 제작
 
 - 20.07.22 ~ 20.10.29 - 한동 고양이 커뮤니티 (한냥만요)  
 Android Native로 커뮤니티 게시글 관련 페이지 제작
+
 
 ## Career
 
