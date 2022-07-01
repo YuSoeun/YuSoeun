@@ -2,7 +2,7 @@
 
 ## DoplinBlue 👋
 상업적 가치와 효율을 생각하며 코딩하는 프로그래머입니다!
-
+  
 
 ## Stack
 #### 1. Front End (기초만)
@@ -18,11 +18,11 @@
 
 #### 3. Computer Language
 - C++, Java, Python
-
+  
 
 ## Project
 
-- 22.05.09 ~ ing - 한동대 구성원을 위한 택시 flutter 버전 제작
+- 22.05.09 ~ ing - 한동대 구성원을 위한 택시 flutter 버전 제작 
 Spring Boot, Spring Data JPA CRUD를 이용한 백앤드 개발
 
 - 21.12.10 ~ 21.12.18 - 학부 별 스터디 모집 게시판 (StudySetter();)  
@@ -39,11 +39,11 @@ C++ Class abstraction + Concole GUI로 테트리스 게임 제작
 
 - 20.07.22 ~ 20.10.29 - 한동 고양이 커뮤니티 (한냥만요)  
 Android Native로 커뮤니티 게시글 관련 페이지 제작
-
+  
 
 ## Career
 
-- 2022.03.02 ~ ing - CRA 동아리 개발 팀장
+- 2022.03.02 ~ ing - CRA 동아리 개발 팀장  
 동아리 신입 프로젝트 관리 및 지도
 
 - 2022.01.12 ~ 2022.01.14 - 학교 내 데이터구조 캠프 디렉터, 강사  
@@ -51,7 +51,7 @@ Android Native로 커뮤니티 게시글 관련 페이지 제작
 
 - 2021.12.01 ~ 2021.2.13 - 모아카 인턴  
 Express와 LAMP, Sequelize를 이용한 크롤링 모듈 서버 제작, open-graph와 selenium으로 크롤러 구현
-
+  
 
 ## Github Stats
 
