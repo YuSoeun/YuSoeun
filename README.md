@@ -8,22 +8,26 @@
 #### 1. Front End (기초만)
 - JavaScript, HTML, CSS
 - Java Native, Android-Studio
-- Flutter
 
 #### 2. Back End
 - LAMP (Linux, Apache, MySQL, PHP)
-- Node.js, Express.js
-- axios, selenium, open-graph-scraper
-- sequelize
+- Node.js, Express.js, sequelize
+- Spring Boot, Spring Data JPA
 
 #### 3. Computer Language
+- axios, selenium, open-graph-scraper
+  
+#### 4. Computer Language
 - C++, Java, Python
   
-
+  
 ## Project
 
-- 22.05.09 ~ ing - 한동대 구성원을 위한 택시 flutter 버전 제작  
-Spring Boot, Spring Data JPA CRUD를 이용한 백앤드 개발
+- 22.11.21 ~ ing - 한동대 구성원을 위한 택시앱 제작 (I-Taxi 2기)
+Spring Boot, JPA, Docker를 이용한 백앤드 개발 및 백업 환경 세팅
+
+- 22.05.09 ~ 22.11.20 - 한동대 구성원을 위한 택시앱 제작 (I-Taxi 1기)
+Spring Boot, Spring Data JPA를 이용한 CRUD 개발
 
 - 21.12.10 ~ 21.12.18 - 학부 별 스터디 모집 게시판 (StudySetter();)  
 JavaScript, HTML, CSS를 이용한 프론트앤드 개발 및 Java Spring을 이용한 백과의 연결 담당
@@ -43,13 +47,13 @@ Android Native로 커뮤니티 게시글 관련 페이지 제작
 
 ## Career
 
-- 2022.03.02 ~ ing - CRA 동아리 개발 팀장  
+- 2022.03.02 ~ 2022.09.22 - CRA 동아리 개발 팀장  
 동아리 신입 프로젝트 관리 및 지도
 
 - 2022.01.12 ~ 2022.01.14 - 학교 내 데이터구조 캠프 디렉터, 강사  
 후배들을 대상으로 C언어와 데이터구조 과목에 관련한 강의 진행
 
-- 2021.12.01 ~ 2021.2.13 - 모아카 인턴  
+- 2021.12.01 ~ 2021.2.13 - 모아카(스타트업) 인턴  
 Express와 LAMP, Sequelize를 이용한 크롤링 모듈 서버 제작, open-graph와 selenium으로 크롤러 구현
   
 
