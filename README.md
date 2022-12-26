@@ -7,14 +7,13 @@
 ## Stack
 #### 1. Front End (기초만)
 - JavaScript, HTML, CSS
-- Java Native, Android-Studio
 
 #### 2. Back End
 - LAMP (Linux, Apache, MySQL, PHP)
 - Node.js, Express.js, sequelize
 - Spring Boot, Spring Data JPA
 
-#### 3. Computer Language
+#### 3. Tool
 - axios, selenium, open-graph-scraper
   
 #### 4. Computer Language
