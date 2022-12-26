@@ -1,7 +1,7 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FYuSoeun%2Fhit-counter&count_bg=%233D61C8&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 ## DoplinBlue 👋
-상업적 가치와 효율을 생각하며 코딩하는 프로그래머입니다!
+ 프로그래머입니다!
   
 
 ## Stack
@@ -27,7 +27,8 @@
 Spring Boot, JPA, Docker를 이용한 백앤드 개발 및 백업 환경 세팅
 
 - 22.05.09 ~ 22.11.20 - 한동대 구성원을 위한 택시앱 제작 (I-Taxi 1기)  
-Spring Boot, Spring Data JPA를 이용한 CRUD 개발
+Spring Boot, Spring Data JPA를 이용한 CRUD 개발  
+https://github.com/I-Taxi/server
 
 - 21.12.10 ~ 21.12.18 - 학부 별 스터디 모집 게시판 (StudySetter();)  
 JavaScript, HTML, CSS를 이용한 프론트앤드 개발 및 Java Spring을 이용한 백과의 연결 담당
@@ -36,7 +37,8 @@ JavaScript, HTML, CSS를 이용한 프론트앤드 개발 및 Java Spring을 이
 JavaScript, HTML, CSS를 이용한 프론트앤드 개발
 
 - 21.04.28 ~ 21.11.22 - 학부 별 Q&A 게시판 (StudyTogethrer)  
-Express와 LAMP, Sequelize를 이용한 백앤드 개발, axios를 이용한 크롤링 기능 제작
+Express와 LAMP, Sequelize를 이용한 백앤드 개발, axios를 이용한 크롤링 기능 제작  
+https://github.com/AnJW-HGU/2021CRASummer
 
 - 21.01.15 ~ 21.05.10 - C++ Tetris 게임  
 C++ Class abstraction + Concole GUI로 테트리스 게임 제작
@@ -46,6 +48,12 @@ Android Native로 커뮤니티 게시글 관련 페이지 제작
   
 
 ## Career
+
+- 22.11.21 ~ ing - I-Taxi 총팀장 겸 백앤드 개발자  
+I-Taxi 2기 모집/총괄, 백앤드 개발  
+
+- 2022,05.09 ~ 22.11.20 - I-Taxi 기획 및 백앤드 개발자
+I-Taxi 인원 모집, CRUD 개발
 
 - 2022.03.02 ~ 2022.09.22 - CRA 동아리 개발 팀장  
 동아리 신입 프로젝트 관리 및 지도
