@@ -1,7 +1,7 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FYuSoeun%2Fhit-counter&count_bg=%233D61C8&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 ## DoplinBlue 👋
-새로운 것을 만나도 해야할 것을 알고, 실행하는 프로그래머입니다!
+새로운 것을 만나도 빠르게 흡수하는 프로그래머입니다!
   
 
 ## Stack
