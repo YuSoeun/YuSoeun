@@ -7,6 +7,7 @@
 ## Stack
 #### 1. Front End (기초만)
 - JavaScript, HTML, CSS
+- flutter
 
 #### 2. Back End
 - LAMP (Linux, Apache, MySQL, PHP)
@@ -15,9 +16,6 @@
 
 #### 3. Tool
 - axios, selenium, open-graph-scraper
-  
-#### 4. Computer Language
-- C++, Java, Python
   
   
 ## Project
