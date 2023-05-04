@@ -24,10 +24,6 @@
 Spring Boot, JPA, Docker를 이용한 백앤드 개발 및 백업 환경 세팅  
 https://github.com/I-Taxi/server  
 
-- 23.01.26 ~ 23.01.28 - 해커톤에서 ADHD 자녀를 둔 부모의 소통 앱 개발 (NORI)  
-Flutter, Firebase를 이용한 프론트 개발팀장  
-https://github.com/NORITHON/team0-NORI  
-
 - 22.05.09 ~ 22.11.20 - 한동대 구성원을 위한 택시앱 제작 (I-Taxi 1기)  
 Spring Boot, Spring Data JPA를 이용한 CRUD 개발  
 
@@ -51,10 +47,12 @@ Android Native로 커뮤니티 게시글 관련 페이지 제작
 ## Career
 
 - 2022.11.21 ~ ing - CRA I-Taxi 총팀장 겸 백앤드 개발자  
-I-Taxi 2기 모집/총괄, 백앤드 개발  
+I-Taxi 2기 모집/총괄, 백앤드 개발, 운영 및 홍보  
+학교 내 창업동아리로 선정되어 120만원 지원받음
 
-- 23.01.26 ~ 23.01.28 - NORI 개발팀장  
+- 23.01.26 ~ 23.01.28 - 해커톤 개발팀장 (NORI)    
 2박 3일 해커톤 간 구현 진행도 97% 달성  
+https://github.com/NORITHON/team0-NORI  
 
 - 2022,05.09 ~ 2022.11.20 - CRA I-Taxi 기획 및 백앤드 개발자  
 I-Taxi 팀 모집, Notice/Post 부분 백앤드 CRUD 개발 및 안드로이드/ios 앱 출시  
