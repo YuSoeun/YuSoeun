@@ -10,7 +10,7 @@
 - flutter
 
 #### 2. Back End
-- LAMP (Linux, Apache, MySQL, PHP)
+- Linux
 - Node.js, Express.js, sequelize
 - Spring Boot, Spring Data JPA
 
