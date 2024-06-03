@@ -68,6 +68,8 @@ I-Taxi 팀 모집, Notice/Post 부분 백앤드 CRUD 개발 및 안드로이드/
 Express와 LAMP, Sequelize를 이용한 크롤링 모듈 서버 제작, open-graph와 selenium으로 크롤러 구현
   
 ## Awards
+- 24.05.2 - 대경권 프로그래밍 경진대회 최우수상 (개인)  
+
 - 23.11.11 - 한동 SW 페스티벌 프로그래밍 경진대회 우수상 (개인, 공동 3위)  
     
 - 23.10.11 - ACM-ICPC 동상 (공동 3위, Craaaaaaaaaaaang)  
