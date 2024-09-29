@@ -21,7 +21,7 @@
 ## Project
 - 23.07.27 ~ 24.06.24 - Kafka를 이용한 블록체인 트랜잭션 프로토콜 개발  
 한동대학교 고윤민 교수님 랩실 RA로 졸업 과제 수행  
-Kafka를 이용한 블록체인 트랜잭션 전송 시스템 논문 KCC 게재  
+[Kafka를 이용한 블록체인 트랜잭션 전송 시스템](https://www.dbpia.co.kr/pdf/pdfView.do?nodeId=NODE11862518&googleIPSandBox=false&mark=0&minRead=5&ipRange=false&b2cLoginYN=false&icstClss=010000&isPDFSizeAllowed=true&accessgl=Y&language=ko_KR&hasTopBanner=true  ) 논문 KCC 게재
  
 - 22.11.21 ~ 23.06.16 - 한동대 구성원을 위한 택시앱 리뉴얼 버전 제작 및 운영 (I-Taxi 2기)  
 Spring Boot, JPA, Docker를 이용한 백앤드 개발 및 백업 환경 세팅  
