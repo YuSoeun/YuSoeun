@@ -93,3 +93,9 @@ Express와 LAMP, Sequelize를 이용한 크롤링 모듈 서버 제작, open-gra
 ## Github Stats
 
 [![Doplin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YuSoeun&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
+## solved.ac
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=soeunsense7)](https://solved.ac/soeunsense7)
+
+## 사용 언어
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YuSoeun&theme=merko)
