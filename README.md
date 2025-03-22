@@ -14,13 +14,11 @@
 ## 💻 Projects
 
 - **Kafka 기반 블록체인 트랜잭션 프로토콜 개발** (23.07.27 ~ 24.06.24)  
-  한동대학교 고윤민 교수님 랩실 RA로 졸업 과제 수행  
-  → [논문: Kafka를 이용한 블록체인 트랜잭션 전송 시스템 (KCC 게재)](https://www.dbpia.co.kr/pdf/pdfView.do?nodeId=NODE11862518)
+  한동대학교 고윤민 교수님 랩실 RA로 졸업 과제 수행 → [논문: Kafka를 이용한 블록체인 트랜잭션 전송 시스템 (KCC 게재)](https://www.dbpia.co.kr/pdf/pdfView.do?nodeId=NODE11862518)
 
 - **I-Taxi 2기** (22.11.21 ~ 23.06.16)  
   한동대 구성원을 위한 택시앱 리뉴얼 및 운영  
-  Spring Boot, JPA, Docker를 이용한 백엔드 개발 및 백업 환경 세팅  
-  → [I-Taxi GitHub](https://github.com/I-Taxi/server)
+  Spring Boot, JPA, Docker를 이용한 백엔드 개발 및 백업 환경 세팅 → [I-Taxi GitHub](https://github.com/I-Taxi/server)
 
 - **I-Taxi 1기** (22.05.09 ~ 22.11.20)  
   한동대 구성원을 위한 택시앱 제작  
@@ -40,8 +38,7 @@
 
 - **StudyTogethrer** (21.04.28 ~ 21.11.22)  
   학부 별 Q&A 게시판  
-  Express, LAMP, Sequelize 백엔드 개발 및 axios 크롤링 기능 구현  
-  → [StudyTogethrer GitHub](https://github.com/AnJW-HGU/2021CRASummer)
+  Express, LAMP, Sequelize 백엔드 개발 및 axios 크롤링 기능 구현  → [StudyTogethrer GitHub](https://github.com/AnJW-HGU/2021CRASummer)
 
 - **한냥만요** (20.07.22 ~ 20.10.29)  
   한동 고양이 커뮤니티  
