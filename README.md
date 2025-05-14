@@ -14,24 +14,20 @@
 ## 💻 Projects
 - **treaXure: 어서와 서울은 처음이지?** (25.05.14 ~ ing)  
   서울 명소를 탐험하며 사진 미션을 수행하는 게임형 여행 앱.  
-  지도 기반 장소 탐색·미션 관리·사진 업로드와 주간 베스트 선정을 제공하며, 리더보드·AI 유사도 판별 등 확장 기능을 준비 중.  
-  - [GitHub](https://github.com/lets-go-trip/treaXure-backend)
-  - [Wikf](https://github.com/lets-go-trip/treaXure-backend/wiki)
+  지도 기반 장소 탐색·미션 관리·사진 업로드와 주간 베스트 선정을 제공하며, 리더보드·AI 유사도 판별 등 확장 기능을 준비 중. → [GitHub](https://github.com/lets-go-trip/treaXure-backend), [Wiki](https://github.com/lets-go-trip/treaXure-backend/wiki)
 
 - **Tiny Delay Timer** (25.03.22 ~ ing)  
-  백준 문제 풀이 시간을 추적하고, 경과 및 지연 시간을 툴바 아이콘에 표시하는 간단한 타이머
-  - [크롬 확장 프로그램](https://chromewebstore.google.com/detail/tiny-delay-timer/kngnojoglfamijphdoohcikoncebebdj?authuser=0&hl=ko)    
-  - [GitHub](https://github.com/YuSoeun/tiny-delay-timer-chrome-extension)  
+  백준 문제 풀이 시간을 추적하고, 경과 및 지연 시간을 툴바 아이콘에 표시하는 간단한 타이머 → [크롬 확장 프로그램](https://chromewebstore.google.com/detail/tiny-delay-timer/kngnojoglfamijphdoohcikoncebebdj?authuser=0&hl=ko) , [GitHub](https://github.com/YuSoeun/tiny-delay-timer-chrome-extension)  
 
 - **TrendFony** (24.10.07 ~ 24.12.15)  
   포컴퍼니 미니 인턴십으로 유통 채널별(Amazon, Oliveyoung, qoo10) 관리자용 데이터 크롤링 대시보드 개발  
   
 - **Kafka 기반 블록체인 트랜잭션 프로토콜 개발** (23.07.27 ~ 24.06.24)  
-  한동대학교 고윤민 교수님 랩실 RA로 졸업 과제 수행 → [논문: Kafka를 이용한 블록체인 트랜잭션 전송 시스템 (KCC 게재)](https://www.dbpia.co.kr/pdf/pdfView.do?nodeId=NODE11862518)
+  한동대학교 고윤민 교수님 랩실 RA로 졸업 과제 수행 → [논문 (KCC 게재)](https://www.dbpia.co.kr/pdf/pdfView.do?nodeId=NODE11862518)
 
 - **I-Taxi 2기** (22.11.21 ~ 23.06.16)  
   한동대 구성원을 위한 택시앱 리뉴얼 및 운영  
-  Spring Boot, JPA, Docker를 이용한 백엔드 개발 및 백업 환경 세팅 → [I-Taxi GitHub](https://github.com/I-Taxi/server)
+  Spring Boot, JPA, Docker를 이용한 백엔드 개발 및 백업 환경 세팅 → [GitHub](https://github.com/I-Taxi/server)
 
 - **I-Taxi 1기** (22.05.09 ~ 22.11.20)  
   한동대 구성원을 위한 택시앱 제작  
@@ -51,7 +47,7 @@
 
 - **StudyTogethrer** (21.04.28 ~ 21.11.22)  
   학부 별 Q&A 게시판  
-  Express, LAMP, Sequelize 백엔드 개발 및 axios 크롤링 기능 구현  → [StudyTogethrer GitHub](https://github.com/AnJW-HGU/2021CRASummer)
+  Express, LAMP, Sequelize 백엔드 개발 및 axios 크롤링 기능 구현  → [GitHub](https://github.com/AnJW-HGU/2021CRASummer)
 
 - **한냥만요** (20.07.22 ~ 20.10.29)  
   한동 고양이 커뮤니티  
