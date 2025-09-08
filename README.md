@@ -12,7 +12,11 @@
   
   
 ## 💻 Projects
-- **treaXure: 어서와 서울은 처음이지?** (25.05.14 ~ ing)  
+- **Finora: 거래 이벤트 모니터링 플랫폼** (25.08.27 ~ ing)  
+계좌·거래 CRUD를 기반으로 Kafka 이벤트 스트리밍, Prometheus/Grafana를 통한 실시간 지표 관측, Elasticsearch 기반 검색/집계 기능 제공 예정  
+추가로 금융 서비스 신뢰성 확보를 위해 이상 거래 탐지와 보상 거래 시뮬레이션을 라이트 버전으로 시연하는 것 목표 → [Github](https://github.com/YuSoeun/Finora)  
+
+- **treaXure: 어서와 서울은 처음이지?** (25.05.14 ~ 25.06.16)  
   서울 명소를 탐험하며 사진 미션을 수행하는 게임형 여행 앱.  
   지도 기반 장소 탐색·미션 관리·사진 업로드와 주간 베스트 선정을 제공하며, 리더보드·AI 유사도 판별 등 확장 기능을 준비 중. → [✨Wiki](https://github.com/lets-go-trip/treaXure-backend/wiki), [GitHub](https://github.com/lets-go-trip/treaXure-backend), 
 
