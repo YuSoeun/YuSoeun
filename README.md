@@ -1,4 +1,4 @@
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FYuSoeun%2Fhit-counter&count_bg=%233D61C8&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+[![hits](https://myhits.vercel.app/api/hit/https%3A%2F%2Fdeku.posstree.com?color=black&label=hits&size=small)](https://myhits.vercel.app)
 
 ## DoplinBlue 👋
 **실시간 데이터 처리**와 **신뢰할 수 있는 아키텍처**에 관심이 있습니다!  
