@@ -1,15 +1,7 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FYuSoeun%2Fhit-counter&count_bg=%233D61C8&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 ## DoplinBlue 👋
-새로운 것을 만나도 빠르게 흡수하는 프로그래머입니다!
-  
-
-## 🛠 Tech Stack
-
-- **Frontend**: HTML/CSS/JavaScript, Flutter (기초)
-- **Backend**: Spring Boot, JPA, Node.js, Express, Sequelize, Linux
-- **Tooling**: Selenium, axios, open-graph-scraper
-  
+**실시간 데이터 처리**와 **신뢰할 수 있는 아키텍처**에 관심이 있습니다!  
   
 ## 💻 Projects
 - **Finora: 거래 이벤트 모니터링 플랫폼** (25.08.27 ~ ing)  
@@ -94,14 +86,18 @@
 - **20.10.28** - SW 페스티벌 1학년 자작 소프트웨어 공모전 우수상 (한동냥) 
     
 
-## 📊 Github Stats  
-[![Doplin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YuSoeun&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-
-## 🔥 Github Streak  
-<img src="https://streak-stats.demolab.com?user=YuSoeun&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />  
-
 ## 📈 solved.ac  
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=soeunsense7)](https://solved.ac/soeunsense7)
 
-## 🧑‍💻 사용 언어  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YuSoeun&theme=merko)
+## 🔥 Github Streak 
+<img src="https://streak-stats.demolab.com?user=YuSoeun&locale=en&mode=daily&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />  
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YuSoeun&radius=16&theme=github&area=true&order=5" height="300" alt="activity-graph graph"  />  
+
+## 📊 Github Stats  
+[![Doplin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YuSoeun&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
+## 🛠 Tech Stack
+
+- **Frontend**: HTML/CSS/JavaScript, Flutter (기초)
+- **Backend**: Spring Boot, JPA, Node.js, Express, Sequelize, Linux
+- **Tooling**: Selenium, axios, open-graph-scraper
