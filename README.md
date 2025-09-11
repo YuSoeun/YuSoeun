@@ -10,7 +10,7 @@
 
 - **treaXure: 어서와 서울은 처음이지?** (25.05.14 ~ 25.06.16)  
   서울 명소를 탐험하며 사진 미션을 수행하는 게임형 여행 앱.  
-  지도 기반 장소 탐색·미션 관리·사진 업로드와 주간 베스트 선정을 제공하며, 리더보드·AI 유사도 판별 등 확장 기능을 준비 중. → [✨Wiki](https://github.com/lets-go-trip/treaXure-backend/wiki), [GitHub](https://github.com/lets-go-trip/treaXure-backend), 
+  지도 기반 장소 탐색·미션 관리·사진 업로드와 주간 베스트 선정 대시보드·AI 이미지 유사도 판별 기능 제공 → [✨Wiki](https://github.com/lets-go-trip/treaXure-backend/wiki), [GitHub](https://github.com/lets-go-trip/treaXure-backend), 
 
 - **Tiny Delay Timer** (25.03.22 ~ 25.04.11)  
   백준 문제 풀이 시간을 추적하고, 경과 및 지연 시간을 툴바 아이콘에 표시하는 간단한 타이머 → [크롬 확장 프로그램](https://chromewebstore.google.com/detail/tiny-delay-timer/kngnojoglfamijphdoohcikoncebebdj?authuser=0&hl=ko) , [GitHub](https://github.com/YuSoeun/tiny-delay-timer-chrome-extension)  
