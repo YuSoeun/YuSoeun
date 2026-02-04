@@ -1,6 +1,8 @@
 [![hits](https://myhits.vercel.app/api/hit/https%3A%2F%2Fdeku.posstree.com?color=black&label=hits&size=small)](https://myhits.vercel.app)
 
 ## DoplinBlue 👋
+> 🐢 빠른 거북이가 되자. 드문드문 꾸준히가 아닌 촘촘히 꾸준하게!  
+
 **실시간 데이터 처리**와 **신뢰할 수 있는 아키텍처**에 관심이 있습니다!  
   
 ## 💻 Projects
