@@ -6,7 +6,7 @@
 **실시간 데이터 처리**와 **신뢰할 수 있는 아키텍처**에 관심이 있습니다!  
   
 ## 💻 Projects
-- **Finora: 거래 이벤트 모니터링 플랫폼** (25.08.27 ~ ing)  
+- **Finora: 거래 이벤트 모니터링 플랫폼** (25.08.27 ~ 25.09.22)  
 계좌·거래 CRUD를 기반으로 Kafka 이벤트 스트리밍, Prometheus/Grafana를 통한 실시간 지표 관측, Elasticsearch 기반 검색/집계 기능 제공 예정  
 추가로 금융 서비스 신뢰성 확보를 위해 이상 거래 탐지와 보상 거래 시뮬레이션을 라이트 버전으로 시연하는 것 목표 → [Github](https://github.com/YuSoeun/Finora)  
 
