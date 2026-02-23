@@ -16,7 +16,7 @@
 
 - **Tiny Delay Timer** (25.03.22 ~ 25.04.11, 25.09.24 ~ 26.02.06)  
   백준 문제 풀이 시간을 추적하고, 경과 및 지연 시간을 툴바 아이콘에 표시하는 간단한 타이머 → [크롬 확장 프로그램](https://chromewebstore.google.com/detail/tiny-delay-timer/kngnojoglfamijphdoohcikoncebebdj?authuser=0&hl=ko) , [GitHub](https://github.com/YuSoeun/tiny-delay-timer-chrome-extension)  
-  🐢🐢 25.02.06: **v1.1 출시**  
+  🐢🐢 25.02.08: **v1.2 출시**  
 
 - **TrendFony** (24.10.07 ~ 24.12.15)  
   포컴퍼니 미니 인턴십으로 유통 채널별(Amazon, Oliveyoung, qoo10) 관리자용 데이터 크롤링 대시보드 개발  
