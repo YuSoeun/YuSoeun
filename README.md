@@ -95,13 +95,6 @@
 ## 📈 solved.ac  
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=soeunsense7)](https://solved.ac/soeunsense7)
 
-## 🔥 Github Streak 
-<img src="https://streak-stats.demolab.com?user=YuSoeun&locale=en&mode=daily&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />  
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YuSoeun&radius=16&theme=github&area=true&order=5" height="300" alt="activity-graph graph"  />  
-
-## 📊 Github Stats  
-[![Doplin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YuSoeun&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-
 ## 🛠 Tech Stack
 
 - **Frontend**: HTML/CSS/JavaScript, Flutter (기초)
