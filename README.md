@@ -6,8 +6,12 @@
 **실시간 데이터 처리**와 **신뢰할 수 있는 아키텍처**에 관심이 있습니다!  
   
 ## 💻 Projects
+- **Incident Autopsy: 운영 장애 부검 자동화 플랫폼 (26.05.01 ~ 26.06.30)**
+  사내 해커톤으로 Jennifer APM · Spring Boot · KB Framework 등 다중 소스 운영 로그를 AI(Bedrock · Groq 등 멀티 프로바이더)로 교차 분석해 장애 원인·영향도 보고서를 20초 안에 생성  
+  Strategy Pattern으로 AI·DB 교체 가능한 구조 설계, AWS 배포 및 RAG 파이프라인 구현 진행 중  
+
 - **Finora: 거래 이벤트 모니터링 플랫폼** (25.08.27 ~ 25.09.22)  
-[진행 중] 계좌·거래 CRUD를 기반으로 Kafka 이벤트 스트리밍, Prometheus/Grafana를 통한 실시간 지표 관측, Elasticsearch 기반 검색/집계 기능 제공 목표  
+[위 해커톤 서브 프로젝트로 확장] 계좌·거래 CRUD를 기반으로 Kafka 이벤트 스트리밍, Prometheus/Grafana를 통한 실시간 지표 관측, Elasticsearch 기반 검색/집계 기능 제공 목표  
 
 - **treaXure: 어서와 서울은 처음이지?** (25.05.14 ~ 25.06.16)  
   서울 명소를 탐험하며 사진 미션을 수행하는 게임형 여행 앱.  
