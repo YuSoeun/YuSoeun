@@ -103,6 +103,9 @@
 ## 📈 solved.ac  
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=soeunsense7)](https://solved.ac/soeunsense7)
 
+## 🔥 Github Streak 
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YuSoeun&radius=16&theme=github&area=true&order=5" height="300" alt="activity-graph graph"  />  
+
 ## 🛠 Tech Stack
 
 - **Frontend**: HTML/CSS/JavaScript, Flutter (기초)
