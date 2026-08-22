@@ -7,9 +7,9 @@
   
 ## 💻 Projects
 - **Incident Autopsy: 운영 장애 부검 자동화 플랫폼 (26.05.01 ~ 26.06.30)**  
-  KBDS 사내 해커톤으로 Jennifer APM · Spring Boot · KB Framework 등 다중 소스 운영 로그를 AI(Bedrock · Groq 등 멀티 프로바이더)로 교차 분석해 장애 원인·영향도 보고서를 20초 안에 생성  
+  **KB데이타시스템 사내 AI해커톤 1등** 작품으로 Jennifer APM · Spring Boot · KB Framework 등 다중 소스 운영 로그를 AI(Bedrock · Groq 등 멀티 프로바이더)로 교차 분석해 장애 원인·영향도 보고서를 20초 안에 생성  
   AWS 배포 및 RAG 파이프라인 구현  
-  14 팀 중 상위 4팀으로 선정되어 2차 심사 준비 중 → [Github](https://github.com/End-Gamers/incident-autopsy-public)  
+  [Github](https://github.com/End-Gamers/incident-autopsy-public)  
      
 
 - **Finora: 거래 이벤트 모니터링 플랫폼** (25.08.27 ~ 25.09.22)  
